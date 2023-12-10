@@ -1,1 +1,1 @@
-# Solution of Task 1
+Solution of Task 1
